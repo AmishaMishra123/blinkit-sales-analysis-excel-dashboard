@@ -24,4 +24,5 @@ The Blinkit Store wants to create a comprehensive analysis of Blinkit's sales re
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard Pic
-[(Dashboard Pic)](https://github.com/AmishaMishra123/blinkit-sales-analysis-excel-dashboard/blob/main/Dashboard%20Pic.png)
+<img width="1162" height="625" alt="Dashboard Pic" src="https://github.com/user-attachments/assets/20c7844c-538f-48a4-915b-5d3c8f5f893d" />
+
